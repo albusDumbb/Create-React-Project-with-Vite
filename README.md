@@ -1,1 +1,2 @@
-# Create-React-Project-with-Vite
+Step 1:
+Install Node.Js
